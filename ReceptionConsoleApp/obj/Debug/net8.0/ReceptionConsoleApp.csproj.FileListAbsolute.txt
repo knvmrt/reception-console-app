@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\bin\Debug\net8.0\ReceptionConsoleApp.exe
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\bin\Debug\net8.0\ReceptionConsoleApp.deps.json
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\bin\Debug\net8.0\ReceptionConsoleApp.runtimeconfig.json
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\bin\Debug\net8.0\ReceptionConsoleApp.dll
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\bin\Debug\net8.0\ReceptionConsoleApp.pdb
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\obj\Debug\net8.0\ReceptionConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\obj\Debug\net8.0\ReceptionConsoleApp.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\obj\Debug\net8.0\ReceptionConsoleApp.AssemblyInfo.cs
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\obj\Debug\net8.0\ReceptionConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\obj\Debug\net8.0\ReceptionConsoleApp.dll
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\obj\Debug\net8.0\refint\ReceptionConsoleApp.dll
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\obj\Debug\net8.0\ReceptionConsoleApp.pdb
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\obj\Debug\net8.0\ReceptionConsoleApp.genruntimeconfig.cache
+D:\Visual Studio Projects\ReceptionConsoleApp\ReceptionConsoleApp\obj\Debug\net8.0\ref\ReceptionConsoleApp.dll
